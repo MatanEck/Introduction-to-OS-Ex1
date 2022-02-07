@@ -1,0 +1,7 @@
+﻿  FatherSource.c
+C:\Users\Matan Eckhaus\source\repos\2021\Operating_sys\FINAL 1\Ex1\Father\FatherSource.c(55,6): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+C:\Users\Matan Eckhaus\source\repos\2021\Operating_sys\FINAL 1\Ex1\Father\FatherSource.c(113,6): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+  main.c
+C:\Users\Matan Eckhaus\source\repos\2021\Operating_sys\FINAL 1\Ex1\Father\main.c(73,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Father.vcxproj -> C:\Users\Matan Eckhaus\source\repos\2021\Operating_sys\FINAL 1\Ex1\Debug\Father.exe
